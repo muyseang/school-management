@@ -14,7 +14,7 @@ namespace school_management.Pages
 
         public void OnGet()
         {
-
+//hello
         }
     }
 }
